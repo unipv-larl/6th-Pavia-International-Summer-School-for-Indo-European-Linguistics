@@ -1,6 +1,6 @@
 <div align="center">
 
-# 6th Pavia International Summer School for Indo European Linguistics
+# 6th Pavia International Summer School for Indo-European Linguistics
 
 </div>
 
