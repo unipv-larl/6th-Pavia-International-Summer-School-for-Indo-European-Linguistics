@@ -14,12 +14,12 @@ Participation in the Summer School, including active participation in the Poster
 
 ## Courses
 
-Course 1: *Anatolian* - Guglielmo Inglese (University of Turin)
-Course 2: *Mycenaean Greek and/or Archaic Greek* - Daniel Kölligan (Julius-Maximilians-Universität Würzburg)
-Course 3: *Avestan* - Benedikt Peschl (Freie Universität Berlin)
-Course 4: *Italic* - Michael Weiss (Cornell University)
-Course 5: *Comparative Indo-European poetics* - Riccardo Ginevra (UCSS Milan)
-Invited lecture: *The Yamnaya Impact on Prehistoric Europe* - Volker Heyd (University of Helsinki)
+- Course 1: **Anatolian** - Guglielmo Inglese (University of Turin)
+- Course 2: **Mycenaean Greek and/or Archaic Greek** - Daniel Kölligan (Julius-Maximilians-Universität Würzburg)
+- Course 3: **Avestan** - Benedikt Peschl (Freie Universität Berlin)
+- Course 4: **Italic** - Michael Weiss (Cornell University)
+- Course 5: **Comparative Indo-European poetics** - Riccardo Ginevra (UCSS Milan)
+- Invited lecture: ***The Yamnaya Impact on Prehistoric Europe*** - Volker Heyd (University of Helsinki)
 
 ## Admission
 
