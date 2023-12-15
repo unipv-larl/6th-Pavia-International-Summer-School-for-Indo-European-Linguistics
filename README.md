@@ -8,9 +8,9 @@ Welcome to the 6th Pavia International Summer School for Indo-European linguisti
 
 Here you will find practical information about the summer school schedule, travel and housing, as well as course materials for download.
 
-The summer school will be held from September 2 to September 7, 2024 at the University of Pavia. It will feature five courses, one invited lecture, and a poster session, in which students will be able to present their own research.
+The summer school will be held from **September 2 to September 7, 2024** at the **University of Pavia**. It will feature five courses, one invited lecture, and a poster session, in which students will be able to present their own research.
 
-Participation in the Summer School, including active participation in the Poster Session, stands for 3 ECTS.
+Participation in the Summer School, including active participation in the Poster Session, stands for **3 ECTS**.
 
 ## Courses
 
