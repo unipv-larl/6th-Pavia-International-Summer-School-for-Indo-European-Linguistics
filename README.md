@@ -34,6 +34,6 @@ If you are an undergraduate, or have not yet finished your MA, please also attac
 Applications will open in early 2024 and will close on **May 31, 2024**
 
 ## Contacts
-For any inquiry, feel free to get in touch with the organizers:
+For any inquiries, please get in touch with the organizers:
 - Chiara Zanchi (chiara.zanchi01@unipv.it)
 - Erica Biagetti (erica.biagetti@unipv.it)
