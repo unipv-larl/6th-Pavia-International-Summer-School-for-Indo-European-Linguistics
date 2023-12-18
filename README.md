@@ -7,7 +7,7 @@
 Welcome to the 6th Pavia International Summer School for Indo-European linguistics!
 
 In this webpage, you will find practical information about the summer school schedule, travel and housing, as well as course materials for download.
-If you want to stay updated and receive news about the summer school, sign up to the mailing list by filling out this [form](https://forms.gle/2NhkVYcjGFwPLg546).  
+If you want to stay updated and receive news about the summer school, sign up to the **mailing list** by filling out this [form](https://forms.gle/2NhkVYcjGFwPLg546).
 
 The summer school will be held from **September 2 to September 7, 2024** at the **University of Pavia**. It will feature five courses, one invited lecture, and a poster session, in which students will be able to present their own research.
 
@@ -21,6 +21,8 @@ Participation in the Summer School, including active participation in the Poster
 - Course 4: **Italic** - Michael Weiss (Cornell University)
 - Course 5: **Comparative Indo-European poetics** - Riccardo Ginevra (UCSS Milan)
 - Invited lecture: *title tba* - Volker Heyd (University of Helsinki)
+
+Programs and course materials from **previous editions** of the school are available [here](http://indoeuropean.wikidot.com).
 
 ## Admission
 
