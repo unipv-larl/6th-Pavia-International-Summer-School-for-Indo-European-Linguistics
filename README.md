@@ -16,7 +16,7 @@ Participation in the Summer School, including active participation in the Poster
 ## Courses
 
 - Course 1: **Anatolian** - Guglielmo Inglese (University of Turin)
-- Course 2: **Mycenaean Greek** - Daniel Kölligan (Julius-Maximilians-Universität Würzburg)
+- Course 2: **Mycenaean** - Daniel Kölligan (Julius-Maximilians-Universität Würzburg)
 - Course 3: **Avestan** - Benedikt Peschl (Freie Universität Berlin)
 - Course 4: **Italic** - Michael Weiss (Cornell University)
 - Course 5: **Comparative Indo-European poetics** - Riccardo Ginevra (UCSS Milan)
@@ -31,4 +31,9 @@ We invite PhD students, as well as Postdocs and other young researchers. Advance
 In order to apply for the school, please send applications to chiara.zanchi01@unipv.it specifying your name and affiliation and your current position.
 If you are an undergraduate, or have not yet finished your MA, please also attach a letter of motivation to you email.
 
-Applications will open in January 2024 and will close on **May 31, 2024**
+Applications will open in early 2024 and will close on **May 31, 2024**
+
+## Contacts
+For any inquiry, feel free to get in touch with the organizers:
+- Chiara Zanchi (chiara.zanchi01@unipv.it)
+- Erica Biagetti (erica.biagetti@unipv.it)
