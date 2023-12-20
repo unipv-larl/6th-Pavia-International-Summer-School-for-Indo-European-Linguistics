@@ -20,7 +20,7 @@ Participation in the Summer School, including active participation in the Poster
 - Course 3: **Avestan** - Benedikt Peschl (Freie Universität Berlin)
 - Course 4: **Italic** - Michael Weiss (Cornell University)
 - Course 5: **Comparative Indo-European poetics** - Riccardo Ginevra (UCSC Milan)
-- Invited lecture: *title tba* - Volker Heyd (University of Helsinki)
+- Invited lecture: ***The Yamnaya Impact on Prehistoric Europe*** - Volker Heyd (University of Helsinki)
 
 Programs and course materials from **previous editions** of the school are available [here](http://indoeuropean.wikidot.com).
 
