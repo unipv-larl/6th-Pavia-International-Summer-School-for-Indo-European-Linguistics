@@ -35,6 +35,10 @@ If you are an undergraduate, or have not yet finished your MA, please also attac
 
 Applications will open in early 2024 and will close on **May 31, 2024**
 
+### Registraton fee
+
+We will strive to keep the registration fee at a minimum (approximately 100 euros). The fee covers tuition, lunches, and coffee breaks.
+
 ## Contacts
 For any inquiries, please get in touch with the organizers:
 - Chiara Zanchi (chiara.zanchi01@unipv.it)
