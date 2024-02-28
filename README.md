@@ -32,14 +32,22 @@ We invite PhD students, as well as Postdocs and other young researchers. Advance
 
 ### Applications
 
-In order to apply for the school, please send applications to chiara.zanchi01@unipv.it specifying your name and affiliation and your current position.
-If you are an undergraduate, or have not yet finished your MA, please also attach a letter of motivation to you email.
+If you are an undergraduate, or have not yet finished your MA, please send a letter of motivation to chiara.zanchi@unipv.it.
 
-Applications will open in early 2024 and will close on **May 31, 2024**
+## Registration 
 
-### Registraton fee
+### How to register 
 
-We will strive to keep the registration fee at a minimum (approximately 100 euros). The fee covers tuition, lunches, and coffee breaks.
+Pay the **registration fee** [here](https://unipv.pagoatenei.cineca.it/frontoffice/modellopagamento?id=1424&lang=it) (**NB**: in the form, ‘cf’ stands for ‘tax identification number’) 
+
+Fill out the **registration form [here](https://forms.gle/rUU3DteHzk7xCAVU8)**
+
+The registration fee is 100€ and covers tuition, lunches, and coffee breaks.
+
+### Important dates
+Registration Opens: March 1, 2024
+
+Registration Closes: June 30, 2024
 
 ## Contacts
 For any inquiries, please get in touch with the organizers:
