@@ -6,7 +6,7 @@
 
 Welcome to the 6th Pavia International Summer School for Indo-European linguistics!
 
-In this webpage, you will find practical information about the summer school schedule, travel and housing, as well as course materials for download.
+In this webpage, you will find practical information about the summer school schedule, [travel](https://github.com/unipv-larl/6th-Pavia-International-Summer-School-for-Indo-European-Linguistics/blob/main/Getting_to_Pavia.pdf) and [housing](https://github.com/unipv-larl/6th-Pavia-International-Summer-School-for-Indo-European-Linguistics/blob/main/Housing.pdf), as well as course materials for download.
 If you want to stay updated and receive news about the summer school, sign up to the **mailing list** by filling out this [form](https://forms.gle/2NhkVYcjGFwPLg546).
 
 The summer school will be held from **September 2 to September 7, 2024** at the **University of Pavia**. It will feature five courses, one invited lecture, and a poster session, in which students will be able to present their own research.
