@@ -1,10 +1,5 @@
-<div align="center">
-
 # 6th Pavia International Summer School for Indo-European Linguistics
 
-</div>
-
-<div align="justify">
 
 Welcome to the 6th Pavia International Summer School for Indo-European linguistics!
 
@@ -56,5 +51,4 @@ For any inquiries, please get in touch with the organizers:
 - Chiara Zanchi (chiara.zanchi01@unipv.it)
 - Erica Biagetti (erica.biagetti@unipv.it)
 
-</div>
 
