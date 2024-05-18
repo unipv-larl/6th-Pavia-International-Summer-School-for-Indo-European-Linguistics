@@ -4,6 +4,8 @@
 
 </div>
 
+<div align="justify">
+
 Welcome to the 6th Pavia International Summer School for Indo-European linguistics!
 
 In this webpage, you will find practical information about the summer school schedule, [travel](https://github.com/unipv-larl/6th-Pavia-International-Summer-School-for-Indo-European-Linguistics/blob/main/Getting_to_Pavia.pdf) and [housing](https://github.com/unipv-larl/6th-Pavia-International-Summer-School-for-Indo-European-Linguistics/blob/main/Housing.pdf), as well as course materials for download.
@@ -26,5 +28,32 @@ The **schedule for this edition** can be downloaded [here](https://github.com/un
 
 Programs and course materials from **previous editions** of the school are available at this [link](http://indoeuropean.wikidot.com).
 
-## Menu
+## Admission
 
+We invite PhD students, as well as Postdocs and other young researchers. Advanced MA students will also be considered for admission, based on a written statement of their motivation for attending the school. As all courses will be taught in English, a good knowledge of English is a basic requirement. 
+
+### Applications
+
+If you are an undergraduate, or have not yet finished your MA, please send a letter of motivation to chiara.zanchi@unipv.it.
+
+## Registration 
+
+### How to register 
+
+Pay the **registration fee** [here](https://unipv.pagoatenei.cineca.it/frontoffice/modellopagamento?id=1424&lang=it) (**NB**: in the form, ‘cf’ stands for ‘tax identification number’) 
+
+Fill out the **registration form** [here](https://forms.gle/rUU3DteHzk7xCAVU8)
+
+The registration fee is 100€ and covers tuition, lunches, and coffee breaks.
+
+### Important dates
+Registration Opens: March 1, 2024
+
+Registration Closes: June 30, 2024
+
+## Contacts
+For any inquiries, please get in touch with the organizers:
+- Chiara Zanchi (chiara.zanchi01@unipv.it)
+- Erica Biagetti (erica.biagetti@unipv.it)
+
+</div>
