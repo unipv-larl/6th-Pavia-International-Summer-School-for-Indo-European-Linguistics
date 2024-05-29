@@ -1,6 +1,4 @@
-# 6th Pavia International Summer School for Indo-European Linguistics
-
-Welcome to the 6th Pavia International Summer School for Indo-European linguistics!
+# Welcome to the 6th Pavia International Summer School for Indo-European linguistics!
 
 In this webpage, you will find practical information about the summer school [schedule](schedule.md), [travel](getting_to_pv.md) and [housing](housing.md), as well as course materials for download.
 If you want to stay updated and receive news about the summer school, sign up to the **mailing list** by filling out this [form](https://forms.gle/2NhkVYcjGFwPLg546).
