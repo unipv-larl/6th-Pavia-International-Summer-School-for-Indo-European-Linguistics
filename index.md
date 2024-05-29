@@ -40,14 +40,9 @@ Fill out the **registration form** [here](https://forms.gle/rUU3DteHzk7xCAVU8)
 
 The registration fee is 100€ and covers tuition, lunches, and coffee breaks.
 
-### Important dates
-Registration Opens: March 1, 2024
-
-Registration Closes: June 30, 2024
+#### Registration Closes: June 30, 2024
 
 ## Contacts
 For any inquiries, please get in touch with the organizers:
 - Chiara Zanchi (chiara.zanchi01@unipv.it)
 - Erica Biagetti (erica.biagetti@unipv.it)
-
-
