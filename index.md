@@ -1,5 +1,6 @@
-# 6th Pavia International Summer School for Indo-European Linguistics
+<div align="justify">
 
+# 6th Pavia International Summer School for Indo-European Linguistics
 
 Welcome to the 6th Pavia International Summer School for Indo-European linguistics!
 
@@ -45,6 +46,8 @@ The registration fee is 100€ and covers tuition, lunches, and coffee breaks.
 Registration Opens: March 1, 2024
 
 Registration Closes: June 30, 2024
+
+</div>
 
 ## Contacts
 For any inquiries, please get in touch with the organizers:
