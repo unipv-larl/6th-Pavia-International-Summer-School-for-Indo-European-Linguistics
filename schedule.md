@@ -12,4 +12,4 @@
 
 ## Schedule
 
-[Schedule](schedule.png)
+![Schedule](schedule.png)
