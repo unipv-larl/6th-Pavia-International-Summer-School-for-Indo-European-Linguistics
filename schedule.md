@@ -22,5 +22,3 @@
 | 16.20-16.40 | Break | Break | Break | Break | Break | _ |
 | 16.40-18.30 | Course 4 | Invited Lecture | Course 1 | Poster Session | Course 3 | _ |
 | _ | _ | Walking Tour of Pavia | Social Dinner | Guided Tour of the University | _ | 
-
-![Schedule](schedule.png)
