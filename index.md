@@ -44,5 +44,5 @@ The registration fee is 100€ and covers tuition, lunches, and coffee breaks.
 
 ## Contacts
 For any inquiries, please get in touch with the organizers:
-- Chiara Zanchi (chiara.zanchi01@unipv.it)
+- Chiara Zanchi (chiara.zanchi@unipv.it)
 - Erica Biagetti (erica.biagetti@unipv.it)
