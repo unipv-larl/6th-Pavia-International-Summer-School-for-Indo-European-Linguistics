@@ -18,7 +18,7 @@ Participation in the Summer School, including active participation in the Poster
 - Course 5: **Indo-European Mythology and Poetics** - Riccardo Ginevra (UCSC Milan)
 - Invited lecture: ***The Yamnaya Impact on Prehistoric Europe*** - Volker Heyd (University of Helsinki)
 
-The **schedule for this edition** can be downloaded [here](https://github.com/unipv-larl/6th-Pavia-International-Summer-School-for-Indo-European-Linguistics/blob/main/Course-schedule_2024.pdf).
+The **schedule for this edition** can be found [here](schedule.md).
 
 Programs and course materials from **previous editions** of the school are available at this [link](http://indoeuropean.wikidot.com).
 
