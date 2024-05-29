@@ -16,29 +16,10 @@ Participation in the Summer School, including active participation in the Poster
 - Course 5: **Indo-European Mythology and Poetics** - Riccardo Ginevra (UCSC Milan)
 - Invited lecture: ***The Yamnaya Impact on Prehistoric Europe*** - Volker Heyd (University of Helsinki)
 
-The **schedule for this edition** can be found [here](schedule.md).
-
-Programs and course materials from **previous editions** of the school are available at this [link](http://indoeuropean.wikidot.com).
-
-## Admission
-
-We invite PhD students, as well as Postdocs and other young researchers. Advanced MA students will also be considered for admission, based on a written statement of their motivation for attending the school. As all courses will be taught in English, a good knowledge of English is a basic requirement. 
-
-### Applications
-
-If you are an undergraduate, or have not yet finished your MA, please send a letter of motivation to chiara.zanchi@unipv.it.
-
-## Registration 
-
-### How to register 
-
-Pay the **registration fee** [here](https://unipv.pagoatenei.cineca.it/frontoffice/modellopagamento?id=1424&lang=it) (**NB**: in the form, ‘cf’ stands for ‘tax identification number’) 
-
-Fill out the **registration form** [here](https://forms.gle/rUU3DteHzk7xCAVU8)
-
-The registration fee is 100€ and covers tuition, lunches, and coffee breaks.
-
-#### Registration Closes: June 30, 2024
+## [Schedule](schedule.md)
+## [Admission](admission.md)
+## [Registration](registration.md)
+## [Past Editions](http://indoeuropean.wikidot.com/)
 
 ## Contacts
 For any inquiries, please get in touch with the organizers:
