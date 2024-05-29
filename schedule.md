@@ -12,4 +12,15 @@
 
 ## Schedule
 
+| 🕒 | Monday 2 | Tuesday 3 | Wednesday 4 | Thursday 5 | Friday 6 | Saturday 7 |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | 
+| 9.10-10.55 | Course 1 | Course 5 |Course 3 | Course 2 | Course 5 | Course 4 |
+| 10.55-11.15 | Break | Break | Break | Break | Break | Break |
+| 11.15-13.00 | Course 2 | Course 1 | Course 4 | Course 3 | Course 1 | Course 5 |
+| 13.00-14.30 | Lunch | Lunch | Lunch | Lunch | Lunch | Lunch |
+| 14.30-16.20 | Course 3 | Course 2 | Course 5 | Course 4 | Course 2 | _ |
+| 16.20-16.40 | Break | Break | Break | Break | Break | _ |
+| 16.40-18.30 | Course 4 | Invited Lecture | Course 1 | Poster Session | Course 3 | _ |
+| _ | _ | Walking Tour of Pavia | Social Dinner | Guided Tour of the University | _ | 
+
 ![Schedule](schedule.png)
