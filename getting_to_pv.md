@@ -1,10 +1,5 @@
-<div align"center">
   
 # TRAVEL INFORMATION
-
-</div>
-
-<div align"justify">
   
 The nearest airports are Milano Linate, Milano Malpensa, and Bergamo Orio al Serio.
 Genova Airport (Cristoforo Colombo) is another possibility.
