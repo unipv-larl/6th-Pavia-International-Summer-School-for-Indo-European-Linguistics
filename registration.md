@@ -6,6 +6,6 @@ Pay the **registration fee** [here](https://unipv.pagoatenei.cineca.it/frontoffi
 
 Fill out the **registration form** [here](https://forms.gle/rUU3DteHzk7xCAVU8)
 
-The registration fee is 100€ and covers tuition, lunches, and coffee breaks.
+The registration fee is 100€ and covers tuition and lunches.
 
 #### Registration Closes: June 30, 2024!
