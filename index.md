@@ -20,7 +20,7 @@ Participation in the Summer School, including active participation in the Poster
 ## [Admission](admission.md)
 ## [Registration](registration.md)
 ## [Past Editions](http://indoeuropean.wikidot.com/)
-## [Transfer information](getting_to-pv.md)
+## [Transfer information](getting_to_pv.md)
 ## [Housing possibilities](housing.md)
 
 ## Contacts
