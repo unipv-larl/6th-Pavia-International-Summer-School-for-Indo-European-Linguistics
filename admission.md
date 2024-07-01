@@ -5,3 +5,5 @@ We invite PhD students, as well as Postdocs and other young researchers. Advance
 ## Applications
 
 If you are an undergraduate, or have not yet finished your MA, please send a letter of motivation to chiara.zanchi@unipv.it.
+
+### Registrations are closed!
