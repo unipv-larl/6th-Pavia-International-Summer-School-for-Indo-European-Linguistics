@@ -20,4 +20,3 @@ Genova Airport (Cristoforo Colombo) is another possibility.
 ## From Genova Cristoforo Colombo Airport to Pavia:
 - Buses (approximately 30 minutes) to Genova Brignole Station, then trains to Pavia: tickets and schedule [here](https://www.trenitalia.com)
 
-</div>
