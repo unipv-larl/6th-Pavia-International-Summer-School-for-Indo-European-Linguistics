@@ -22,6 +22,8 @@ Participation in the Summer School, including active participation in the Poster
 ## [Past Editions](http://indoeuropean.wikidot.com/)
 ## [Transfer information](getting_to_pv.md)
 ## [Housing possibilities](housing.md)
+## [Posters](posters.md)
+## [Course materials](materials.md)
 
 ## Contacts
 For any inquiries, please get in touch with the organizers:
