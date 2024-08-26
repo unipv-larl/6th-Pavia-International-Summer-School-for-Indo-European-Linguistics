@@ -22,3 +22,12 @@
 | 16.20-16.40 | Break | Break | Break | Break | Break |  |
 | 16.40-18.30 | Course 4 | Invited Lecture | Course 1 | Poster Session | Course 3 |  |
 |  |  | Walking Tour of Pavia | Social Dinner | Guided Tour of the University |  | 
+
+
+### Rooms
+- From Monday to Friday: **Aula III**, Palazzo Centrale, Corso Strada Nuova 65
+- Saturday: **[Aula Scarpa](https://it.wikipedia.org/wiki/Aula_Scarpa)**, Palazzo Centrale, Corso Strada Nuova 65
+
+### Lunches
+- From Monday to Friday: [Mami Pavia](https://maps.app.goo.gl/vqXM8qTgh8rzdbrn8)
+- Saturday: **Cortile Sforzesco**, Palazzo Centrale, Corso Strada Nuova 65
