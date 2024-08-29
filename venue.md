@@ -7,4 +7,4 @@
 - Saturday: **Cortile Sforzesco**, Palazzo Centrale, Corso Strada Nuova 65
 
 ### Social Dinner 
-- Restourant [Civico Uno](https://maps.app.goo.gl/UiMz56ZKwQyHjP1z6), 7:30 p.m.
+- Restaurant [Civico Uno](https://maps.app.goo.gl/UiMz56ZKwQyHjP1z6), 7:30 p.m.
