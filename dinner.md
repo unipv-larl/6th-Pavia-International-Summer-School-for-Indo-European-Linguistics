@@ -11,7 +11,7 @@ The social dinner will be held on **Wednesday, September 4th, at 7:30 PM** at th
 - Fried polenta sticks with Grana Padano DOP sauce
 
 #### Main:
-- Risotto
+- Risotto with yellow cherry tomatoes, vanilla, and parsley powder
 
 #### Dessert:
 - Tiramisù
