@@ -32,6 +32,6 @@
 - From Monday to Friday: [Mami Pavia](https://maps.app.goo.gl/vqXM8qTgh8rzdbrn8)
 - Saturday: **Cortile Sforzesco**, Palazzo Centrale, Corso Strada Nuova 65
 
-## Social Dinner 
+### Social Dinner 
 - Restourant [Civico Uno](https://maps.app.goo.gl/UiMz56ZKwQyHjP1z6), 7:30 p.m.
 
