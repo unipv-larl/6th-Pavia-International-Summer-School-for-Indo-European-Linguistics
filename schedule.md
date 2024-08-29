@@ -24,7 +24,7 @@
 |  |  | Walking Tour of Pavia | Social Dinner | Guided Tour of the University |  | 
 
 
-### Classrooms
+### Rooms
 - From Monday to Friday: **Aula III**, Palazzo Centrale, Corso Strada Nuova 65
 - Saturday: **[Aula Scarpa](https://it.wikipedia.org/wiki/Aula_Scarpa)**, Palazzo Centrale, Corso Strada Nuova 65
 
