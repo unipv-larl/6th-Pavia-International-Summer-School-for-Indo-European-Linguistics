@@ -2,6 +2,8 @@
   
 The social dinner will be held on **Wednesday, September 4th, at 7:30 PM** at the restaurant **[Civico Uno](https://maps.app.goo.gl/UiMz56ZKwQyHjP1z6)**, which is located right behind the main university building. 
 
+## Price
+35€/person
                                                                                                       
 ## Menu:
 #### Starters:                                                                                                    
@@ -15,10 +17,9 @@ The social dinner will be held on **Wednesday, September 4th, at 7:30 PM** at th
 
 #### Dessert:
 - Tiramisù
-                                                                                                      
-## Price
-35€/person
+  
 
 -----
+
 
 We will collect confirmations of attendance for the dinner and any dietary requirements on Monday, during the first day of school.
