@@ -1,13 +1,14 @@
 # Course materials
 
 ## Course 1: Anatolian
-- Session 1: [Slides](anatolian1.md)
+- [Session 1](anatolian1.md)
 - Session 2
 - Session 3
 - Session 4
 
 ## Course 2: Mycenaean
-- Session 1: [Slides](mycenaean1.pdf), [Bibliography](mycenaean_bibl.pdf)
+- [Bibliography](mycenaean_bibl.pdf)
+- [Session 1](mycenaean1.pdf)
 - Session 2
 - Session 3
 - Session 4
@@ -19,7 +20,8 @@
 - Session 4
 
 ## Course 4: Italic
-- Session 1
+- [Handout](italic_handout.pdf)
+- [Session 1](italic1.pdf)
 - Session 2
 - Session 3
 - Session 4
