@@ -7,7 +7,7 @@
 - Session 4
 
 ## Course 2: Mycenaean
-- Session 1: [Slides](mycenaean1.md), [Bibliography](mycenaean_bibl.md)
+- Session 1: [Slides](mycenaean1.pdf), [Bibliography](mycenaean_bibl.md)
 - Session 2
 - Session 3
 - Session 4
