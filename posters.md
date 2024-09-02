@@ -14,6 +14,7 @@
 - **Lorenzo Reina** (University of Pavia) - *Verbi triargomentali in greco antico e codifica in Universal Dependencies*
 - **Federico Samperi** (University of Pavia) - *Building a Lemma Bank for Old Irish verbs*
 - **Thales Simōes** (University of Pavia) - *The two ordinary words for ‘woman’ in Proto-Indo-European: a semantic and morphological analysis of the roots \*gʷen- and \*sor-*
+- **Zacharias van Stek** (Humboldt University) - *The Reconstruction of Indo-European Horse Sacrifice*
 - **Matteo	Tarsi** (Kyushu University) - *Conceptual metaphors and the organization of the lexicon the case of verba cogitandi, cognoscendi, and dicendi*
 - **Nicola Tedesco** (University of Pavia) - *Diachronic Analysis of Ibero-Romance Nasal Vowels*
 
