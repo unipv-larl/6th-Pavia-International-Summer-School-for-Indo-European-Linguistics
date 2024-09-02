@@ -1,7 +1,8 @@
 # Course materials
 
 ## Course 1: Anatolian
-- [Session 1](anatolian1.md)
+- [Bibliography](anatolian_bibl.pdf)
+- [Session 1](anatolian1.pdf)
 - Session 2
 - Session 3
 - Session 4
