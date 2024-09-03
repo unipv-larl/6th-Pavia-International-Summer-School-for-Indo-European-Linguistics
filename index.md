@@ -7,6 +7,9 @@ The summer school will be held from **September 2 to September 7, 2024** at the 
 
 Participation in the Summer School, including active participation in the Poster Session, stands for **3 ECTS**.
 
+## ❗️❗️ Classes were moved to [Aula Grande - Scienze Politiche](aula_grande.pdf), Palazzo Centrale.
+On Saturday, we will be in Aula Scarpa as planned.
+
 ## Courses
 
 - Course 1: **Anatolian** - Guglielmo Inglese (University of Turin)
@@ -15,9 +18,6 @@ Participation in the Summer School, including active participation in the Poster
 - Course 4: **Italic** - Michael Weiss (Cornell University)
 - Course 5: **Indo-European Mythology and Poetics** - Riccardo Ginevra (UCSC Milan)
 - Invited lecture: ***The Yamnaya Impact on Prehistoric Europe*** - Volker Heyd (University of Helsinki)
-
-## ❗️❗️ Classes were moved to [Aula Grande - Scienze Politiche](aula_grande.pdf), Palazzo Centrale.
-On Saturday, we will be in Aula Scarpa as planned.
 
 ## [Schedule](schedule.md)
 ## [Admission](admission.md)
