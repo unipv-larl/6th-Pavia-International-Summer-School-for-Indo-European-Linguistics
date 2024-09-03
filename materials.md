@@ -3,14 +3,14 @@
 ## Course 1: Anatolian
 - [Bibliography](anatolian_bibl.pdf)
 - [Session 1](anatolian1.pdf)
-- Session 2
+- [Session 2](anatolian2.pdf)
 - Session 3
 - Session 4
 
 ## Course 2: Mycenaean
 - [Bibliography](mycenaean_bibl.pdf)
 - [Session 1](mycenaean1.pdf)
-- Session 2
+- [Session 2](mycenaean2.pdf)
 - Session 3
 - Session 4
 
@@ -28,7 +28,7 @@
 - Session 4
 
 ## Course 5: Indo-European Mythology and Poetics 
-- Session 1
+- [Session 1](poetics1.pdf)
 - Session 2
 - Session 3
 - Session 4
