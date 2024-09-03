@@ -16,6 +16,9 @@ Participation in the Summer School, including active participation in the Poster
 - Course 5: **Indo-European Mythology and Poetics** - Riccardo Ginevra (UCSC Milan)
 - Invited lecture: ***The Yamnaya Impact on Prehistoric Europe*** - Volker Heyd (University of Helsinki)
 
+## ❗️❗️ Classes were moved to [Aula Grande - Scienze Politiche](aula_grande.pdf), Palazzo Centrale.
+On Saturday, we will be in Aula Scarpa as planned.
+
 ## [Schedule](schedule.md)
 ## [Admission](admission.md)
 ## [Registration](registration.md)
