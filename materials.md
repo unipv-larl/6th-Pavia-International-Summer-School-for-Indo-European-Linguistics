@@ -26,7 +26,7 @@
 
 ## Course 5: Indo-European Mythology and Poetics 
 - [Session 1](poetics1.pdf)
-- Session 2
+- [Session 2](poetics2.pdf)
 - Session 3
 - Session 4
 
