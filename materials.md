@@ -4,7 +4,7 @@
 - [Bibliography](anatolian_bibl.pdf)
 - [Session 1](anatolian1.pdf)
 - [Session 2](anatolian2.pdf)
-- Session 3
+- [Session 3](anatolian3.pdf)
 - Session 4
 
 ## Course 2: Mycenaean
