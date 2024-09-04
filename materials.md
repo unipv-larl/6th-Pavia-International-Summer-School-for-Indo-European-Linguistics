@@ -15,7 +15,7 @@
 - Session 4
 
 ## Course 3: Avestan
-- [All sessions](https://docs.google.com/presentation/d/1TSKiRHom3reZaALYMFHzpqstEgwIlYEoDTKKasjgh0A/edit#slide=id.g2fabcb980a5_0_40)
+- [All sessions](avestan.pdf)
 
 ## Course 4: Italic
 - [Handout](italic_handout.pdf)
