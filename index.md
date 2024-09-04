@@ -22,15 +22,10 @@ On Saturday, classes will be held in **Aula Scarpa** as planned.
 - Invited lecture: ***The Yamnaya Impact on Prehistoric Europe*** - Volker Heyd (University of Helsinki)
 
 ## [Schedule](schedule.md)
-## [Admission](admission.md)
-## [Registration](registration.md)
-## [Past Editions](http://indoeuropean.wikidot.com/)
-## [Venue](venue.md)
-## [Transfer information](getting_to_pv.md)
-## [Housing possibilities](housing.md)
-## [Posters](posters.md)
 ## [Course materials](materials.md)
+## [Posters](posters.md)
 ## [Social Dinner](dinner.md) 
+## [Past Editions](http://indoeuropean.wikidot.com/)
 
 ## Contacts
 For any inquiries, please get in touch with the organizers:
