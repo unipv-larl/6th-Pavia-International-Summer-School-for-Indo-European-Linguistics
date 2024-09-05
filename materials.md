@@ -20,13 +20,13 @@
 ## Course 4: Italic
 - [Handout](italic_handout.pdf)
 - [Session 1](italic1.pdf)
-- Session 2: [Mythology](poetics2.pdf), [Poetics](poetics3.pdf)
+- Session 2
 - Session 3
 - Session 4
 
 ## Course 5: Indo-European Mythology and Poetics 
 - [Session 1](poetics1.pdf)
-- Session 2: (poetics2.pdf)
+- Session 2: [Mythology](poetics2.pdf), [Poetics](poetics3.pdf)
 - Session 3
 - Session 4
 
