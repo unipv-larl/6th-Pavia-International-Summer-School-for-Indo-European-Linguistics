@@ -1,7 +1,7 @@
 # Course Schedule 📋
 
 ### ❗️❗️ Classes were moved to [Aula Grande - Scienze Politiche](aula_grande.pdf), Palazzo Centrale.
-### ❗️❗️ Due to adverse meteorological conditions, the poster session (Thursday, 4.40 pm) has also been moved to Aula di Statisica (in front of Aula Grande).
+### ❗️❗️ The poster session (Thursday, 4.40 pm) has also been moved to Aula di Statisica (in front of Aula Grande).
 
 On Saturday, classes will be held in **Aula Scarpa** as planned.
 
