@@ -11,7 +11,7 @@
 - [Bibliography](mycenaean_bibl.pdf)
 - [Session 1](mycenaean1.pdf)
 - [Session 2](mycenaean2.pdf)
-- Session 3
+- [Session 3](mycenaean3.pdf)
 - Session 4
 
 ## Course 3: Avestan
@@ -20,13 +20,13 @@
 ## Course 4: Italic
 - [Handout](italic_handout.pdf)
 - [Session 1](italic1.pdf)
-- Session 2
+- Session 2: [Mythology](poeics2.pdf), [Poetics](poetics3.pdf)
 - Session 3
 - Session 4
 
 ## Course 5: Indo-European Mythology and Poetics 
 - [Session 1](poetics1.pdf)
-- [Session 2](poetics2.pdf)
+- Session 2: (poetics2.pdf)
 - Session 3
 - Session 4
 
