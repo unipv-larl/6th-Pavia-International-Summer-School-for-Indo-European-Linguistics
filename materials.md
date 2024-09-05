@@ -2,32 +2,29 @@
 
 ## Course 1: Anatolian
 - [Bibliography](anatolian_bibl.pdf)
-- [Session 1](anatolian1.pdf)
-- [Session 2](anatolian2.pdf)
-- [Session 3](anatolian3.pdf)
-- Session 4
+- [Slides session 1](anatolian1.pdf)
+- [Slides session 2](anatolian2.pdf)
+- [Slides session 3](anatolian3.pdf)
+- Slides session 4
 
 ## Course 2: Mycenaean
 - [Bibliography](mycenaean_bibl.pdf)
-- [Session 1](mycenaean1.pdf)
-- [Session 2](mycenaean2.pdf)
-- [Session 3](mycenaean3.pdf)
-- Session 4
+- [Slides session 1](mycenaean1.pdf)
+- [Slides session 2](mycenaean2.pdf)
+- [Slides session 3](mycenaean3.pdf)
+- Slides session 4
 
 ## Course 3: Avestan
-- [All sessions](avestan.pdf)
+- [Slides](avestan.pdf)
 
 ## Course 4: Italic
 - [Handout](italic_handout.pdf)
-- [Session 1](italic1.pdf)
-- Session 2
-- Session 3
-- Session 4
+- [Slides](italic1.pdf)
 
 ## Course 5: Indo-European Mythology and Poetics 
-- [Session 1](poetics1.pdf)
-- Session 2: [Mythology](poetics2.pdf), [Poetics](poetics3.pdf)
-- Session 3
-- Session 4
+- [Slides session 1](poetics1.pdf)
+- Siides session 2: [Mythology](poetics2.pdf), [Poetics](poetics3.pdf)
+- Slides session 3
+- Slides session 4
 
   
