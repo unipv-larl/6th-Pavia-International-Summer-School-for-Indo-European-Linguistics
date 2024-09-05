@@ -1,7 +1,7 @@
 # Course Schedule 📋
 
 ### ❗️❗️ Classes were moved to [Aula Grande - Scienze Politiche](aula_grande.pdf), Palazzo Centrale.
-### ❗️❗️ The poster session has also been moved to Aula di Statisica (in front of Aula Grande).
+### ❗️❗️ The poster session has also been moved to Salone di Statisica (in front of Aula Grande).
 
 On Saturday, classes will be held in **Aula Scarpa** as planned.
 
@@ -31,7 +31,7 @@ On Saturday, classes will be held in **Aula Scarpa** as planned.
 
 ### Rooms
 - From Monday to Friday: **[Aula Grande - Scienze Politiche](aula_grande.pdf)**, Palazzo Centrale, Corso Strada Nuova 65
-- Poster session: **Aula di Statisica (in front of Aula Grande)**, Palazzo Centrale, Corso Strada Nuova 65
+- Poster session: **Salone di Statisica (in front of Aula Grande)**, Palazzo Centrale, Corso Strada Nuova 65
 - Saturday: **[Aula Scarpa](https://it.wikipedia.org/wiki/Aula_Scarpa)**, Palazzo Centrale, Corso Strada Nuova 65
 
 ### Lunches
