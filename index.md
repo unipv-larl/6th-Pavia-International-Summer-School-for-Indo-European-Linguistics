@@ -7,8 +7,8 @@ The summer school will be held from **September 2 to September 7, 2024** at the 
 
 Participation in the Summer School, including active participation in the Poster Session, stands for **3 ECTS**.
 
-## ❗️❗️ Classes were moved to [Aula Grande - Scienze Politiche](aula_grande.pdf), Palazzo Centrale.
-The poster session (Thursday, 4.40 pm) will take place in the porch in front of Aula III - Lettere.
+### ❗️❗️ Classes were moved to [Aula Grande - Scienze Politiche](aula_grande.pdf), Palazzo Centrale.
+### ❗️❗️ The poster session has also been moved to Salone di Statisica (in front of Aula Grande).
 
 On Saturday, classes will be held in **Aula Scarpa** as planned.
 
