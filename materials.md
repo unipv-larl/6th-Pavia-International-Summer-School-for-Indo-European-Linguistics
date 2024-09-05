@@ -5,7 +5,7 @@
 - [Slides session 1](anatolian1.pdf)
 - [Slides session 2](anatolian2.pdf)
 - [Slides session 3](anatolian3.pdf)
-- Slides session 4
+- [Slides session 4](anatolian4.pdf)
 
 ## Course 2: Mycenaean
 - [Bibliography](mycenaean_bibl.pdf)
@@ -16,6 +16,8 @@
 
 ## Course 3: Avestan
 - [Slides](avestan.pdf)
+- [Sample texts](avestan_texts.docx)
+- [Grammar tables](avesan_grammar.pdf)
 
 ## Course 4: Italic
 - [Handout](italic_handout.pdf)
