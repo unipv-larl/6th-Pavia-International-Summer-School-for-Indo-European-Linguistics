@@ -20,7 +20,7 @@
 ## Course 4: Italic
 - [Handout](italic_handout.pdf)
 - [Session 1](italic1.pdf)
-- Session 2: [Mythology](poeics2.pdf), [Poetics](poetics3.pdf)
+- Session 2: [Mythology](poetics2.pdf), [Poetics](poetics3.pdf)
 - Session 3
 - Session 4
 
