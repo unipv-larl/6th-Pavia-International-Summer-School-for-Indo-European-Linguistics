@@ -7,6 +7,8 @@ The summer school will be held from **September 2 to September 7, 2024** at the 
 
 Participation in the Summer School, including active participation in the Poster Session, stands for **3 ECTS**.
 
+### ❗️❗️ On Saturday, classes will be held in Aula Scarpa (Room 13 in [this map](https://saisd.unipv.it/wp-content/uploads/SAISD-pianta-piano-terra.pdf))
+
 ## Courses
 
 - Course 1: **Anatolian** - Guglielmo Inglese (University of Turin)
