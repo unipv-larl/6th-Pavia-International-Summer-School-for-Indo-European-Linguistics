@@ -7,10 +7,6 @@ The summer school will be held from **September 2 to September 7, 2024** at the 
 
 Participation in the Summer School, including active participation in the Poster Session, stands for **3 ECTS**.
 
-### ❗️❗️ Classes were moved to [Aula Grande - Scienze Politiche](aula_grande.pdf), Palazzo Centrale.
-
-On Saturday, classes will be held in **Aula Scarpa** as planned.
-
 ## Courses
 
 - Course 1: **Anatolian** - Guglielmo Inglese (University of Turin)
