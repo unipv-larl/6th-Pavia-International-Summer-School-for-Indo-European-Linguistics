@@ -1,6 +1,6 @@
 # Posters
 
-- **Youssef	Abotaleb** (University of Padua) - [*The genesis of the Latin conjunction 'vel' : a case of grammaticalization*](Abotaleb_Poster.pdf)
+- **Youssef	Abotaleb** (University of Padua) - [*The genesis of the Latin conjunction 'vel' : a case of grammaticalization*](Abotaleb_poster.pdf)
 - **Tania	Ahmad** (Adam Mickiewicz University, Poznan) - [*Transitivity prominence in Indo-European and beyond*](Ahmad_Poster.pdf)
 - **Elia	Calligari** (University of Pavia) - [*Discourse enclitics in Old Church Slavonic: a corpus-based comparison with Ancient Greek*](Calligari_Poster.pdf)
 - **Giorgio	Carboni** (University for foreigners of Siena) - [*The etymology of Ἐρινύς in the light of Indo-European phraseology*](Carboni_Poster.pdf)
