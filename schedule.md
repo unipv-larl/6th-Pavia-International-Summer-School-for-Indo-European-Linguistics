@@ -1,7 +1,5 @@
 # Course Schedule 📋
 
-### ❗️❗️ On Saturday, classes will be held in Aula Scarpa (Room 13 in [this map](https://saisd.unipv.it/wp-content/uploads/SAISD-pianta-piano-terra.pdf))
-
 ## Courses and instructors 
 
 - Course 1: **Anatolian** - Guglielmo Inglese (University of Turin)
