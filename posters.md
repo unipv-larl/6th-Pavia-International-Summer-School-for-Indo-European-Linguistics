@@ -13,7 +13,7 @@
 - **Mattia	Petrogalli** (UCSC Milan) - [*Sensory Lexicon and Conceptual Metaphor Theory: focus on Ancient Greek τυφλός*](Petrogalli_Poster.pdf)
 - **Lorenzo Reina** (University of Pavia) - [*Verbi triargomentali in greco antico e codifica in Universal Dependencies*](Reina_Poster.pdf)
 - **Federico Samperi** (University of Pavia) - [*Building a Lemma Bank for Old Irish verbs*](Samperi_Poster.pdf)
-- **Thales Simōes** (University of Pavia) - *The two ordinary words for ‘woman’ in Proto-Indo-European: a semantic and morphological analysis of the roots \*gʷen- and \*sor-*
+- **Thales Simōes** (University of Pavia) - [*The two ordinary words for ‘woman’ in Proto-Indo-European: a semantic and morphological analysis of the roots \*gʷen- and \*sor-*](Simoes_Poster.pdf)
 - **Zacharias van Stek** (Humboldt University) - [*The Reconstruction of Indo-European Horse Sacrifice*](van_Stek_Poster.pdf)
 - **Matteo	Tarsi** (Kyushu University) - [*Conceptual metaphors and the organization of the lexicon the case of verba cogitandi, cognoscendi, and dicendi*](Tarsi_Poster.pdf), [Handout](Tarsi_Handout.pdf)
 - **Nicola Tedesco** (University of Pavia) - [*Diachronic Analysis of Ibero-Romance Nasal Vowels*](Tedesco_Poster.pdf)
