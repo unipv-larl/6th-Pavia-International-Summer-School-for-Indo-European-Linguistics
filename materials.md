@@ -24,8 +24,8 @@
 - [Slides](italic1.pdf)
 
 ## Course 5: Indo-European Mythology and Poetics 
-- Slides session 1: [Introduction](poetics1.pdf)
-- Siides session 2: [Mythology](poetics2.pdf), [Poetics](poetics3.pdf)
+- Slides session 1: [Poetics, Epithets](poetics1.pdf)
+- Siides session 2: [Mythology, Gods and Men](poetics2.pdf), [Merisms](poetics3.pdf)
 - Slides session 3: [Heaven and Earth](poetics4.pdf), [Kennings](poetics5.pdf), [Dawn and Divine Twins](poetics6.pdf)
 - Slides session 4: [Dawn and Divine Twins](poetics7.pdf), [Dragons and basic formulas](poetics8.pdf)
 
