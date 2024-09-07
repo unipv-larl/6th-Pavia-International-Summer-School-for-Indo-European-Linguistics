@@ -16,7 +16,7 @@
 
 ## Course 3: Avestan
 - [Slides](avestan.pdf)
-- [Sample texts](avestan_texts.docx)
+- [Sample texts](avestan_texts.pdf)
 - [Grammar tables](avesan_grammar.pdf)
 
 ## Course 4: Italic
